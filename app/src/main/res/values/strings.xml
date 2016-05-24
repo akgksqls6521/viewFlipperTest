@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ViewFlipperTest</string>
+    <string name="but_text_prev">ㅇㅣ전화면</string>
+    <string name="but_text_next">ㄷㅏ음화면</string>
 </resources>
